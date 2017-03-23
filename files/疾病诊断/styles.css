@@ -273,6 +273,7 @@
   position:absolute;
   left:622px;
   top:36px;
+  visibility:hidden;
 }
 #u23_state0 {
   position:relative;
