@@ -14,7 +14,7 @@
 }
 #u0 {
   position:absolute;
-  left:1029px;
+  left:980px;
   top:0px;
 }
 #u0_state0 {
@@ -2537,7 +2537,7 @@
 #u195 {
   position:absolute;
   left:20px;
-  top:64px;
+  top:54px;
 }
 #u195_state0 {
   position:relative;
@@ -2871,7 +2871,7 @@
 #u223 {
   position:absolute;
   left:207px;
-  top:104px;
+  top:94px;
   width:663px;
   height:401px;
   overflow:hidden;
@@ -5073,7 +5073,7 @@
 #u394 {
   position:absolute;
   left:207px;
-  top:458px;
+  top:448px;
 }
 #u394_state0 {
   position:relative;
@@ -5179,6 +5179,9 @@
   top:24px;
   width:53px;
   height:16px;
+  font-family:'Arial Negreta', 'Arial';
+  font-weight:700;
+  font-style:normal;
 }
 #u403_img {
   position:absolute;
