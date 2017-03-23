@@ -2023,7 +2023,7 @@
   word-wrap:break-word;
 }
 #u150 {
-  position:fixed;
+  position:absolute;
   left:116px;
   top:55px;
   visibility:hidden;
@@ -4561,7 +4561,7 @@
   outline-style:none;
 }
 #u349 {
-  position:fixed;
+  position:absolute;
   left:303px;
   top:449px;
   visibility:hidden;

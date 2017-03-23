@@ -3373,7 +3373,7 @@
   word-wrap:break-word;
 }
 #u311 {
-  position:fixed;
+  position:absolute;
   left:116px;
   top:55px;
   visibility:hidden;
@@ -5911,7 +5911,7 @@
   outline-style:none;
 }
 #u510 {
-  position:fixed;
+  position:absolute;
   left:303px;
   top:449px;
   visibility:hidden;
